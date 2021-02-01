@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-
-
 <h1 class="mt-5">
 	Negative Lumber
 </h1>
@@ -57,16 +55,19 @@ Once the carbon is released into the atmosphere through burning or decomposition
 
 For our estimates, we are conservatively assuming 50% absolute moisture rate. So 1 kg of waste wood converts to appoximately 0.9 kg of carbon dioxide emissions
 
-**Why sequester wood instead of using is as biofuel?**  
-Today, [bioenergy from wood](https://www.pbl.nl/en/publications/climate-effects-of-wood-used-for-bioenergy) is considered carbon neutral because the harvest trees will theoretically be replaced by new trees, displacing the CO<sub>2</sub> emissions from burning. 
+**Why sequester wood instead of using is for bioenergy?**  
+Today, [bioenergy from wood](https://www.pbl.nl/en/publications/climate-effects-of-wood-used-for-bioenergy) is considered carbon neutral because the harvest trees will eventually be replaced by new trees, displacing the CO<sub>2</sub> emissions from burning. 
 
 Wood sequestration, in comparison to this, is carbon negative because while the replacement trees still soak up displaced CO<sub>2</sub>, the original CO<sub>2</sub> is never released back into the atmosphere. 
 
-As global prices on carbon capture rise with the urgency to stave off runaway climate change, it's an innevibility that sequestering — instead of burning it for energy — will be the only solution that makes sense economically and environmentally.
+As global prices on carbon capture rise with the urgency to stave off runaway climate change, it's an innevibility that sequestering — instead of burning for energy — will become the most economically beneficial use of waste wood.
 
-{% include figure.html url="/assets/images/carbon_prices.png" description="arbon prices are predicted to rise [well above $100 this century, considering the price of one ton of dried wood pellets hovers at around $160, burning them will no longer make economic sense in comparison to sequestering the carbon." text="Carbon prices are predicted to rise well above $100 this century, considering the price of one ton of dried wood pellets hovers at around $160, burning them will no longer make economic sense in comparison to sequestering the carbon." %}
+<figure class="figure">
+<img src="/assets/images/carbon_prices.png" class="figure-img img-fluid rounded" alt="Carbon prices are predicted to rise [well above $100 this century, with the price of one ton of wood pellets hovers at around $160, burning them will no longer make economic sense in comparison to sequestering the carbon.">
+<figcaption class="figure-caption">Carbon prices are predicted to rise well above $100 this century, with the price of one ton of wood pellets hovers at around $160, burning them will no longer make economic sense in comparison to sequestering the carbon. (Credit: <a href="https://www.carbonpricingleadership.org/open-for-comments/2017/5/29/carbon-price-variations-in-2c-scenarios-explored">Carbon Pricing Leadership Coalition)</a></figcaption>
+</figure>
 
-**Won't storing wood for the purpose of carbon capture take up too much space?**  
+**How much space will be required to store wood for the purpose of carbon capture?**  
 A 100 m<sup>3</sup> cube of compressed would can store more than a million tons of CO<sub>2</sub>. 1 km<sup>3</sup> cube could store a gigaton of CO<sub>2</sub> (about 15% of 2019 human emissions)
 
 It's important to note that regardless of how you remove CO<sub>2</sub> from the atmosphere, it will likely need to be stored somewhere. Pure carbon cannot be stored (it's inert) so the upper limit of density is probably something like 85% (that of crude oil). Considering wood can reach 50% density, and it's one of the most pletiful, and replenishible resources on the planet, we are optimistic about its use for carbon sequestration.
@@ -74,7 +75,7 @@ It's important to note that regardless of how you remove CO<sub>2</sub> from the
 **Could this technology be expanded to other wood sources such a diseased, damaged or dead trees?**  
 Yes, it's just a question of costs and logistics. The decay and burning of wood biomass is responsibile for 220 Gt (700% of 2019 human CO<sub>2</sub> emissions) of CO<sub>2</sub> emissioms globally and there is certainly an opportunity to put a dent in this by selective sequestration.
 
-{% include figure.html url="/assets/images/pine_beetle.jpg" description="Trees killed by the mountain pine beatle are estimated to have emitted 150 Mg of CO<sub>2</sub> in 2018. About 25% of Canada's total CO<sub>2</sub> emissions for the year." text="Trees killed by the mountain pine beatle are estimated to have emitted 150 Mg of CO<sub>2</sub> in 2018. About 25% of Canada's total CO<sub>2</sub> emissions for the year." %}
+{% include figure.html url="/assets/images/pine_beetle.jpg" description="Trees killed by the mountain pine beatle are estimated to have emitted 150 Mg of CO<sub>2</sub> in 2018. About 20% of Canada's total CO<sub>2</sub> emissions for the year." text="Trees killed by the mountain pine beatle are estimated to have emitted 150 Mg of CO<sub>2</sub> in 2018. About 20% of Canada's total CO<sub>2</sub> emissions for the year." %}
 
 Although we are motivated by future application of wood sequestration, our focus in the near term is waste wood as there already centrally located processing sites that will simplify logistics and minimize costs.
 
