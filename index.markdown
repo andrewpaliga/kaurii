@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<h1 class="mt-5">
-	Negative Lumber
-</h1>
+
+
+<h1 class="mt-5">Negative Lumber</h1>
 
 <p class="lead">
  	Reduce atmospheric carbon by sequestering wood.
