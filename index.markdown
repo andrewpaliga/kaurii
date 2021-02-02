@@ -16,7 +16,7 @@ title: Home
 
 We are an early stage startup with a mission to reduce atmospheric carbon levels by sequestering waste wood.
 
-Today in North American over 200 million tons of waste wood from lumber is generated annually. The majority of this waste wood is burnt for energy or is disposed in landfills. These processes result in 150 million tons of carbon dioxide emissions annually, the equivalent of 33 million vehicles.
+Today in North American over 200 million tons of waste wood from lumber is generated annually. The majority of this waste wood is burnt for energy or is disposed in landfills. These processes result in 150 million tons of carbon dioxide emissions annually, the equivalent of 33 million vehicles on the road.
 
 Our vision is that instead of burning or disposting of waste wood, we keep its carbon locked within its organic matter by processing and burying it to prevent decomposition. This would result in massive emissions reductions and could eventualy convert the lumber industry into a carbon sink.
 
