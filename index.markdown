@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Negative Lumber | Reduce atmospheric carbon by sequestering wood
 ---
 
 
