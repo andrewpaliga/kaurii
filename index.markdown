@@ -81,4 +81,4 @@ Although we are motivated by future application of wood sequestration, our focus
 
 ### Contact us
 
-Inquiries welcome at <info@negtivelumber.com>
+Inquiries welcome at <info@negativelumber.com>
