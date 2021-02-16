@@ -47,14 +47,14 @@ With further research and experimentation, our aim is to pioneer a process for t
 
 ### Out team
 
-We are in the process of putting together a team of experts in soil science, atmospheric sciences, excavation and project management background.
+We are in the process of putting together a team of experts in soil science, atmospheric science, excavation and project management background.
 
 To be published.
 
 
 ### Alpha Project
 
-Once the right team is assembled, and further research is completed, we will commence a proof-of-concept project. Our target is to sequester 10,000 tons of equivalent carbon dioxide emissions at around $100 per ton. A small investment round will be completed at this time.
+Once the right team is assembled, and further research is completed, we will start a proof-of-concept project. Our target is to sequester 10,000 tons of equivalent carbon dioxide emissions at around $100 per ton. A small investment round will be completed at this time.
 
 ### Related research papers
 
