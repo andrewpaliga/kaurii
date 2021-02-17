@@ -35,7 +35,7 @@ When trees die, they primarily decay from biological processes, releasing carbon
 
 By controlling these factors it’s possible to create an environment for where wood will forgo decay almost indefinitely. 
 
-We believe that this can be accomplished **wood burial**, as research shows that oxygen levels, and biological activity decreases exponentially beneath 1 m of soil in most areas. 
+There is srong evidence that this can be accomplished by **wood burial**, as research shows that oxygen levels, and biological activity decreases exponentially beneath 1 m of soil in most areas. 
 
 There are many examples of wood being recovered almost fully intact after many thousands of years of burial:
 
