@@ -29,13 +29,13 @@ Our vision is to recover a portion of the wood biomass and sequester it permanen
 
 {% include figure.html url="/assets/images/carbon_negative.png" description="If just 1% of decaying tree matter is sequestered (likely via burial) then effectively 2 Gt of carbon dioxide will be removed from the atmosphere." text="If just 1% of decaying tree matter is sequestered (likely via burial) then effectively 2 Gt of carbon dioxide will be removed from the atmosphere." %}
 
-### How to stop trees from decaying?
+### Why wood burial?
 
 When trees die, they primarily decay from biological processes, releasing carbon dioxide as a result. The main agents of this are fungi, insects and bacteria. The rate of decay is a function of moisture, temperature, oxygen content, and PH level.
 
-By controlling these factors it’s possible to create an environment for where wood will forgo decay almost indefinitely. 
+By controlling these factors it’s possible to create an environment for where wood will forgo decay indefinitely, preventing the carbon dioxide emissions as a result.
 
-There is srong evidence that this can be accomplished by **wood burial**, as research shows that oxygen levels, and biological activity decreases exponentially beneath 1 m of soil in most areas. 
+This can be accomplished by **wood burial**, as research shows that oxygen levels, and biological activity decreases exponentially beneath 1 m of soil in most areas. 
 
 There are many examples of wood being recovered almost fully intact after many thousands of years of burial:
 
